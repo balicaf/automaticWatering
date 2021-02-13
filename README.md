@@ -6,3 +6,7 @@ The goal is to use a wifi/arduino nodemcu to control wirelessly 3 pumps thanks t
 The Python file is a bot to "smart" control the local hosted website (LAN). It pushes the on button, wait a certain amount of time, then presses the off button.
 for mac and firefox, download, right click run, then:
 sudo cp geckodriver /usr/local/bin
+
+maybe a good addon would be a humidity sensor to have a servo servo system
+
+https://lastminuteengineers.com/esp8266-dht11-dht22-web-server-tutorial/
